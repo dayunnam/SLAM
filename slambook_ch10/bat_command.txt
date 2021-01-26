@@ -1,0 +1,1 @@
+g2o_bundle.exe -input ./data/problem-16-22106-pre.txt -final_ply test.ply
