@@ -1,5 +1,10 @@
 /*
 https://github.com/gaoxiang12/slambook/blob/master/ch7/pose_estimation_3d2d.cpp
+title={14 Lectures on Visual SLAM: From Theory to Practice},
+publisher = {Publishing House of Electronics Industry},
+year = {2017},
+author = {Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan},
+} ```
 
 2021-01-26
 - opencv4.5.1
